@@ -33,7 +33,7 @@
 
                         </form>
 
-                        <th>ID</th>
+                        <th>Id</th>
                         <th>Task</th>
                         <th>Completed</th>
                         <th>Action</th>
